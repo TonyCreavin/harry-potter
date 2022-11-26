@@ -1,0 +1,10 @@
+.image-card {
+  height: 300px;
+  width: 300px;
+  border: 3px solid black;
+  box-shadow: 1px 1px 1px black;
+}
+.image {
+  height: 300px;
+  width: 300px;
+}
